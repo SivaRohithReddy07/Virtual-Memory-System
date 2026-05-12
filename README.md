@@ -132,13 +132,13 @@ Resume Process
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-link>
+git clone https://github.com/SivaRohithReddy07/Virtual-Memory-System.git
 ```
 
 ### 2. Move into the Project Directory
 
 ```bash
-cd <repository-folder>
+cd Virtual-Memory-System
 ```
 
 ### 3. Clean Previous Builds
