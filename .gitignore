@@ -1,0 +1,12 @@
+*.bin
+*.img
+*.iso
+*.out
+
+build/
+dist/
+
+.vscode/
+.idea/
+
+*.log
