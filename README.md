@@ -156,7 +156,7 @@ make
 ### 5. Run the Kernel Using QEMU
 
 ```bash
-qemu-system-i386 -fda image
+qemu-system-i386 -hda image
 ```
 
 ---
